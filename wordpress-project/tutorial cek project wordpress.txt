@@ -1,0 +1,4 @@
+1. copy folder "rizstore" dan paste ke folder www (jika anda menggunakan laragon)
+2. jalankan laragon dan ketik pada kolom URL rizstore.tes
+3. masukkan username "rizaldy" dan password "@rizaldy18"
+4. jika tampilan diarahkan pada halaman admin, hapus wp-admin pada kolom URL
